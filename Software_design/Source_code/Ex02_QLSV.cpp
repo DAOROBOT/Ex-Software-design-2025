@@ -2,8 +2,9 @@
 using namespace std;
 int main()
 {
-    cout << "Hello world";
-    cout << "Testing Git command";
+    cout << "Hello world\n";
+    cout << "Testing Git command" << endl;
+    cout << "Testing file source code to Git";
     return 0;
 
 }
