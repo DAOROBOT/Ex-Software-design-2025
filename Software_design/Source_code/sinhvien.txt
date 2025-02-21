@@ -1,0 +1,3 @@
+SV001,Nguyễn Văn A,01/01/2000,Nam,Khoa Luật,K22,Cử nhân,Hà Nội,nguyenvana@gmail.com,0123456789,Đang học
+SV002,Trần Thị B,15/05/1999,Nữ,Khoa Tiếng Anh thương mại,K21,Thạc sĩ,TP.HCM,tranb@gmail.com,0987654321,Đã tốt nghiệp
+SV003,Lê Văn C,20/10/2001,Nam,Khoa Tiếng Nhật,K23,Cử nhân,Đà Nẵng,levanc@yahoo.com,0912345678,Tạm dừng học
