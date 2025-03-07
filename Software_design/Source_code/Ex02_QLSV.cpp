@@ -448,13 +448,22 @@ class sinhVien
 					break;
 			}
 		}
-		sinhVien()
+		void inputStudentID(wstring& studentID)
 		{
 			wcout << L"Nhập mã số sinh viên: ";
 			input(studentID, 1); // Mode 1 là yêu cầu input chỉ được số
-			
+		}
+		
+		void inputName(wstring& name)
+		{
 			wcout << L"\nNhập họ tên: ";
 			input(name, 0); // Mode 0 là yêu cầu input chỉ được ký tự, không được là số
+		}
+		sinhVien()
+		{
+			
+			inputStudentID(studentID);
+			inputName(name);
 			
 			wstring day;
 			wstring month;
